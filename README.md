@@ -1,1 +1,3 @@
-# Curso_GitAvan
+# Curso_GiCu
+Curso GitHub Avanzado
+Jessica Sánchez Domínguez
